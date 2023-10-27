@@ -1,0 +1,27 @@
+Dr.B.Prasada Rao      HOD                     11404  ECE
+Dr.A.Naga Jyothi      Professor               10493  ECE
+Dr.K.Srinivasa Naik   Associate Professor     10637  ECE 
+Dr.P.S.N.Murthy       Associate Professor     11656  ECE
+Mrs.M.Karuna          Associate Professor     10040  ECE
+Mrs.Y.Sukanya         Associate Professor     11598  ECE
+Mrs.A.Usha Rani       Assistant Professor     10044  ECE
+Mr.P.Tirumala Rao     Assistant Professor     10045  ECE
+Mr.Ashish Kumar       Assistant Professor     10475  ECE
+Mr.B.Naveen Kumar     Assistant Professor     10545  ECE
+Mr.S.Ravi Kumar       Assistant Professor     10550  ECE
+Mrs.K.Lakshmi         Assistant Professor     10551  ECE
+Mr.B.Eswara Rao       Assistant Professor     10568  ECE
+Mr.J.Ramesh           Assistant Professor     10617  ECE
+Mrs.P.Suneetha        Assistant Professor     10653  ECE
+Mr.A.S.D Murthy       Assistant Professor     11375  ECE
+Mrs.K.Swathi          Assistant Professor     11617  ECE
+Mrs.G.Arshini         Teaching Asst.          11553  ECE
+Mrs.E.Lavanya         Assistant Professor     11746  ECE
+Mr.Soumya Sundar      Assistant Professor     11784  ECE
+Mr.Sateesh Virothu    Assistant Professor     11789  ECE
+Mrs.J.Vijaya Sree     Assistant Professor     11790  ECE
+Mrs.M.Hemlata         Teaching Asst.          11791  ECE
+Mr.J.Siddartha Varma  Assistant Professor     11828  ECE
+pavan                 proff.                  99999  ECE
+V M Rao               Rector                  11111  ECE
+B.Arundhati    principal  10001   EEE   
